@@ -48,13 +48,13 @@ All the cleaning is based on the https://tree-map.nycgovparks.org/ website. As t
 4) Reposition address column in the dataset
 5) Replace NaN values
 6) Further cleaning
-7) Save DataFrame to external (compressed) csv file (Final_dataset.csv.xz)
+7) Save DataFrame to external (compressed) csv file
 
 ## About the repository
 
 This repository contains the cleaned dataset `Final_dataset.csv` and the source code (Notebook) `NYC_trees_project.ipynb`. 
 
-*Shape of `Final_dataset.csv` :* 
+*Shape of `Final_dataset.csv.xz` :* 
 &nbsp;
 **(683788 rows x 20 columns)**
 &nbsp;
