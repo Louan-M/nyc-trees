@@ -1,6 +1,6 @@
 # Data preprocessing - NYC City Trees Project
 
-
+<img src="https://github.com/Louan-M/nyc-trees/blob/main/Images/USA_Parks_Autumn.jpg" width="550">
 
 ## What ?
 
@@ -42,10 +42,13 @@ This is a 1 day project. The dead line is on `12/03/2021 04:00 PM`.
 All the cleaning is based on the https://tree-map.nycgovparks.org/ website. As the time was limited, this website has been used as a reference for the final goal avec the cleaning process.
 
 ### Overal process
-1) Drop the columns that have too much NaN values
-2) Fill in the missing Zip code and borough. These data were considered particularly relevant for the ML model. A use of an API (geocode ArcGIS) was necessary for this task.
-3) Consolidate the addresses into a single column. 
-4) Further cleaning + preprocessing (drop columns not needed anymore, replace NaN values, drop unecessary rows, change types, ...)
+1) Download dataset with use of `download.py` script provided by Becode
+2) Remove unnecessary columns
+3) Change column names 
+4) Reposition address column in the dataset
+5) Replace NaN values
+6) Further cleaning
+7) Save DataFrame to external (compressed) csv file (Final_dataset.csv)
 
 ## About the repository
 
@@ -53,7 +56,7 @@ This repository contains the cleaned dataset `Final_dataset.csv` and the source 
 
 *Shape of `Final_dataset.csv` :* 
 &nbsp;
-**(92046 rows x 22 columns)**
+**(683788 rows x 20 columns)**
 &nbsp;
 &nbsp;
 ## Thank you for reading!
