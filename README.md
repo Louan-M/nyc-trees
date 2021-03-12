@@ -54,7 +54,7 @@ All the cleaning is based on the https://tree-map.nycgovparks.org/ website. As t
 
 This repository contains the cleaned dataset `Final_dataset.csv` and the source code (Notebook) `NYC_trees_project.ipynb`. 
 
-*Shape of `Final_dataset.csv.xz` :* 
+*Shape of the dataset :* 
 &nbsp;
 **(683788 rows x 20 columns)**
 &nbsp;
