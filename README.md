@@ -56,7 +56,7 @@ This repository contains the cleaned dataset `Final_dataset.csv` and the source 
 
 *Shape of the dataset :* 
 &nbsp;
-**(652173 rows x 20 columns)**
+**(683788 rows x 20 columns)**
 &nbsp;
 &nbsp;
 ## Thank you for reading!
