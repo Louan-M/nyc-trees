@@ -39,7 +39,7 @@ This is a 1 day project. The dead line is on `12/03/2021 04:00 PM`.
 
 ## How ?
 
-All the cleaning is based on the https://tree-map.nycgovparks.org/ website. As the time was limited, this website has been used as a reference for the final goal avec the cleaning process.
+All the cleaning is based on the https://tree-map.nycgovparks.org/ website. As the time was limited, this website has been used as a reference for the final goal of the cleaning process.
 
 ### Overal process
 1) Download dataset with use of `download.py` script provided by Becode
