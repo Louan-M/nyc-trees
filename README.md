@@ -1,6 +1,6 @@
 # Data preprocessing - NYC City Trees Project
 
-
+<img src="https://github.com/Louan-M/nyc-trees/blob/main/Images/USA_Parks_Autumn.jpg" width="550">
 
 ## What ?
 
@@ -53,7 +53,7 @@ This repository contains the cleaned dataset `Final_dataset.csv` and the source 
 
 *Shape of `Final_dataset.csv` :* 
 &nbsp;
-**(92046 rows x 22 columns)**
+**(683788 rows x 20 columns)**
 &nbsp;
 &nbsp;
 ## Thank you for reading!
