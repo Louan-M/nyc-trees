@@ -48,7 +48,7 @@ All the cleaning is based on the https://tree-map.nycgovparks.org/ website. As t
 4) Reposition address column in the dataset
 5) Replace NaN values
 6) Further cleaning
-7) Save DataFrame to external (compressed) csv file (Final_dataset.csv)
+7) Save DataFrame to external (compressed) csv file (Final_dataset.csv.xz)
 
 ## About the repository
 
